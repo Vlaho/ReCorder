@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ReCorder</string>
+
+    <string name="activity_splash_image_descritpion">ReCorder icon</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_main_record_button_description">Record button</string>
+    <string name="activity_main_press_to_record_text">Press to record</string>
+    <string name="activity_main_disconnect_button">Disconnect</string>
+    <string name="activity_device_connection_devices_text">Available connections:</string>
+    <string name="activity_device_connection_refresh_button_description">Refresh button</string>
+    <string name="activity_device_connection_picture">Connecting</string>
+    <string name="activity_device_connect_button">Connect</string>
+    <string name="activity_main_radio_button_on_press">On button press</string>
+    <string name="activity_main_radio_button_constant">Constant recording</string>
+    <string name="activity_main_radio_group_text">Type of recording</string>
+    <string name="device_list_item_host_name">Hostname</string>
+    <string name="device_list_item_address">IP Address</string>
+
+</resources>
