@@ -15,7 +15,7 @@
             android:id="@+id/imageView"
             android:layout_gravity="center"
             android:contentDescription="@string/activity_splash_image_descritpion"
-            android:src="@drawable/icon" />
+            android:src="@drawable/appicon" />
     </FrameLayout>
 
     <FrameLayout

@@ -1,0 +1,30 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   .idea/compiler.xml
+#	deleted:    .idea/encodings.xml
+#	modified:   .idea/gradle.xml
+#	modified:   .idea/inspectionProfiles/Project_Default.xml
+#	modified:   .idea/misc.xml
+#	new file:   .idea/runConfigurations.xml
+#	modified:   ReCorder.iml
+#	modified:   app/app.iml
+#	modified:   app/build.gradle
+#	modified:   app/src/main/AndroidManifest.xml
+#	modified:   app/src/main/java/hr/tvz/zavrsni/vlahovic/recorder/activities/main/MyDevice.java
+#	modified:   app/src/main/java/hr/tvz/zavrsni/vlahovic/recorder/activities/main/activities/DeviceConnectionActivity.java
+#	modified:   app/src/main/java/hr/tvz/zavrsni/vlahovic/recorder/activities/main/activities/MainActivity.java
+#	new file:   app/src/main/res/drawable/add.png
+#	new file:   app/src/main/res/drawable/appicon.jpg
+#	deleted:    app/src/main/res/drawable/icon.png
+#	modified:   app/src/main/res/layout/activity_main.xml
+#	modified:   app/src/main/res/layout/activity_splash.xml
+#	modified:   app/src/main/res/values/strings.xml
+#	modified:   build.gradle
+#	modified:   gradle/wrapper/gradle-wrapper.properties
+#
+

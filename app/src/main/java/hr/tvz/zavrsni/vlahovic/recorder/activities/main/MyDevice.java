@@ -13,11 +13,11 @@ public class MyDevice {
         this.address = address;
     }
 
-    public String getHostName() {
-        return hostName;
-    }
-
     public String getAddress() {
         return address;
+    }
+
+    public String getHostName() {
+        return hostName;
     }
 }

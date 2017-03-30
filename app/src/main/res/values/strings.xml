@@ -12,7 +12,7 @@
     <string name="activity_device_connect_button">Connect</string>
     <string name="activity_main_radio_button_on_press">On button press</string>
     <string name="activity_main_radio_button_constant">Constant recording</string>
-    <string name="activity_main_radio_group_text">Type of recording</string>
+    <string name="activity_main_radio_group_text">Recording options</string>
     <string name="device_list_item_host_name">Hostname</string>
     <string name="device_list_item_address">IP Address</string>
 
